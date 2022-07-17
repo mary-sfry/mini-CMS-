@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "shabnam";
+    src: url('../fonts/Shabnam-Medium.woff');
+}
+
+body {
+    font-family: "shabnam";
+}
